@@ -1,0 +1,42 @@
+/* estilos da pagina Indeex html*/
+.p1{
+    background-color: rgb(180, 245, 223);
+    text-align: center;
+}
+
+.p2{
+    background-color: rgb(181, 220, 243);
+    font-size: 30;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+#menu li{
+    display: inline;
+    padding: 40px;
+}
+
+#menu li a {
+    text-decoration: none;
+    color: black;
+}
+
+#menu li a:hover{
+    color: grey;
+}
+
+.center {
+    padding: 30px;
+}
+
+.img{
+    padding: 30px;
+}
+
+/* estilos da pagina contato html*/
